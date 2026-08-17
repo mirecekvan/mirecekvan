@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235" height="188" viewBox="115 85 470 375">
+  <defs>
+    <filter id="goo" x="-50%" y="-50%" width="200%" height="200%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="18" result="blur"/>
+      <feColorMatrix in="blur" mode="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 22 -10" result="goo"/>
+    </filter>
+  </defs>
+  <g filter="url(#goo)">
+    <circle cx="260" cy="260" r="80" fill="#181b20">
+      <animate attributeName="cx" values="260;300;240;280;260" dur="12s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="260;300;320;250;260" dur="14s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="300" cy="330" r="65" fill="#181b20">
+      <animate attributeName="cx" values="300;270;320;290;300" dur="15s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="330;290;350;310;330" dur="11s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="440" cy="290" r="80" fill="#ffb454">
+      <animate attributeName="cx" values="440;400;460;420;440" dur="13s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="290;250;320;270;290" dur="10s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="410" cy="220" r="60" fill="#ffb454">
+      <animate attributeName="cx" values="410;450;390;430;410" dur="14s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="220;260;200;240;220" dur="9s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+      <animate attributeName="r" values="60;72;52;66;60" dur="12s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="270" r="55" fill="#cc903f">
+      <animate attributeName="cx" values="350;380;330;360;350" dur="16s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+      <animate attributeName="cy" values="270;300;250;290;270" dur="13s" calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1;0.45 0 0.55 1" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
