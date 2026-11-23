@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=7F55E6&center=true&vCenter=true&width=800&height=60&lines=im+mirecek;it+student;software+and+cybersecurity;i+make+software+prove+itself" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=7F55E6&center=true&vCenter=true&width=800&height=60&lines=im+mirecek;it+student;software%2C+cybersecurity+and+ai;i+make+software+prove+itself" />
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  hey! i'm an IT student. i build all kinds of software and work in
-  cybersecurity, then write the tests and checks that keep it honest.
+  hey! i'm an IT student. i build software at every level and work in
+  cybersecurity and AI, then write the tests and checks that keep it honest.
   i care about code that works in production, not in tutorials.
 </p>
 
